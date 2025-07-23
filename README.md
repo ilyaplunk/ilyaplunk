@@ -5,8 +5,11 @@
 
 Hello!
 
- :school: I'm currently studying in the Master's program [Data Analysis for the State and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics.
+:earth_asia: I live in Russian Federation, Saint Petersburg
 
+:school: Currently studying in the Master's program [Data Analysis for the State and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics
+
+:books: I study mathematical statistics, machine learning, and sociology
 
 ---
 
