@@ -7,7 +7,7 @@ print('Hello world!')
 
 :earth_asia: I live in Russian Federation, Saint Petersburg :ru:
 
-:school: Currently studying in the Master's program [Data Analysis for the Politics and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics
+:school: Currently studying in the Master's program [Data Analytics for Politics and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics
 
 :books: I study mathematical statistics, machine learning and sociology
 
