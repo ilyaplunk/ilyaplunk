@@ -1,3 +1,6 @@
+
+![En9lKoelkjs копия](https://github.com/user-attachments/assets/168e55af-6d6c-42e5-b64e-2cffbefe50e1)
+
 ## Ilya Bezrukov, Data Analyst
 
 Hello!
