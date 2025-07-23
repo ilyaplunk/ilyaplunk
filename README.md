@@ -8,10 +8,11 @@
 
 ### Contacts
 
-<a href="https://t.me/ilyaplunk" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/8b566ddf-f66f-422c-9c0f-d429b762dab2" alt="Telegram" width="50" height="50" />
+<a href="https://t.me/твой_ник_в_телеграм" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/46ba3c32-f03d-4389-95e5-58779d782b41" alt="Telegram" width="48" height="48" />
   <span style="margin-left: 8px; font-size: 18px; color: #0088cc;">Telegram</span>
 </a>
+
 
 
 
