@@ -1,4 +1,10 @@
 ## Ilya Bezrukov, Data Analyst
+
+
+ :school: I'm currently studying in the Master's program [Data Analysis for the State and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics.
+
+
 ---
 
- :school: I am currently studying in the Master's program [Data Analysis for the State and Society](https://spb.hse.ru/en/ma/daps/) at the Higher School of Economics.
+### Contacts
+
