@@ -15,9 +15,8 @@ print('Hello world!')
 
 ### Contacts
 
-<a href="https://t.me/ilyaplunk" target="_blank">
-  <img src="https://github.com/user-attachments/assets/46ba3c32-f03d-4389-95e5-58779d782b41" alt="Telegram" width="48" height="48" />
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ilyaplunk)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](stalkerpro100ilya@gmail.com)
 
 
 
