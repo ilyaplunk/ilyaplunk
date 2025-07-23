@@ -3,7 +3,7 @@
 
 ## Ilya Bezrukov, Data Analyst :bar_chart: :chart_with_upwards_trend:
 
-print('Hello world!'))
+print('Hello world!')
 
 :earth_asia: I live in Russian Federation, Saint Petersburg
 
