@@ -8,9 +8,8 @@
 
 ### Contacts
 
-<a href="https://t.me/ilyaplunk" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+<a href="https://t.me/gmail" target="_blank">
   <img src="https://github.com/user-attachments/assets/46ba3c32-f03d-4389-95e5-58779d782b41" alt="Telegram" width="48" height="48" />
-  <span style="margin-left: 8px; font-size: 18px; color: #0088cc;">Telegram</span>
 </a>
 
 
