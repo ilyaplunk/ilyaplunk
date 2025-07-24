@@ -33,5 +33,10 @@ print('Hello world!')
 
 ---
 
+### Completed courses
+
+:apple: Stepik — [Basics of Statistics](https://stepik.org/course/76/info)
+
+---
 
 
