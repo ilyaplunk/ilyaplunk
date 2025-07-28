@@ -35,7 +35,7 @@ print('Hello world!')
 
 ### Completed courses
 
-:apple: Stepik — [Basics of Statistics](https://stepik.org/cert/2546102?lang=en), [Basics of Statistics. Part 2](https://stepik.org/cert/2922969?lang=en), [Basics of Statistics. Part 3](https://stepik.org/cert/2922399?lang=en)
+:apple:  Bioinformatics Institute — [Basics of Statistics](https://stepik.org/cert/2546102?lang=en), [Basics of Statistics. Part 2](https://stepik.org/cert/2922969?lang=en), [Basics of Statistics. Part 3](https://stepik.org/cert/2922399?lang=en)
 
 ---
 
