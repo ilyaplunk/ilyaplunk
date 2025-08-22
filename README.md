@@ -40,7 +40,7 @@ print('Hello world!')
    1) [Basics of Statistics](https://stepik.org/cert/2546102?lang=en)
    2) [Basics of Statistics. Part 2](https://stepik.org/cert/2922969?lang=en)
    3) [Basics of Statistics. Part 3](https://stepik.org/cert/2922399?lang=en)
-   4) [Introduction to Data Science and Machine Learning](https://stepik.org/cert/2941518?lang=en),
+   4) [Introduction to Data Science and Machine Learning](https://stepik.org/cert/2941518?lang=en)
 
 ---
 
