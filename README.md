@@ -22,11 +22,11 @@ print('Hello world!')
 
 ### Skills
 
-Development: Python, Git, Jupyter Lab
-Working with data: SQL, PostgreSQL, NumPy, Pandas
-Machine learning: Scikit-learn
-Visualization: Matplotlib, Plotly, Seaborn
-Mathematical and statistical analysis
+ - **Development**: Python, Git, Jupyter Lab
+ - **Working with data**: R, SQL, PostgreSQL, NumPy, Pandas
+ - **Machine learning**: Scikit-learn
+ - **Visualization**: Matplotlib, Plotly, Seaborn, ggplot2
+ - **Mathematical and statistical analysis**
 
 ---
 
